@@ -8,6 +8,7 @@ public class Point2D {
 	this.x = x;
 	this.y =y;
 }
+//string commened
 public String show()
 {
 	return ("("+this.x+" "+this.y+" )");
